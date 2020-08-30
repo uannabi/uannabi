@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
-- 📫 How to reach me:[email](zahid_sc@hotmail.fr)
+- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <hr>
