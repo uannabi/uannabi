@@ -2,20 +2,20 @@
 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<hr>
+
 ### I'm a Beliver, Developer & Achiver !
 
-<hr>
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ada-asia[website](https://ada-asia.com/)
+- 🔭 I’m currently working on ad [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
-- 📫 How to reach me: zahid_sc@hotmail.fr[email]!
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:[email](zahid_sc@hotmail.fr)
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 <hr>
 
 
