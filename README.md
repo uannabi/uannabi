@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 <hr>
 
-
+<details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uannabi&layout=compact)]
+</details>
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true&hide_border=true" />
+  <img align="left" alt="Uannabi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true&hide_border=true" />
 
 </details>
