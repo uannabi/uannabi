@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uannabi&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uannabi&layout=compact)](https://github.com/uannabi/github-readme-stats)
 </details>
 <details>
   <summary>:zap: Github Stats</summary>
