@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 </p>
 
 ## Experienced with 
-<code> <img height="100" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg"> </code>
+<code> <img height="100" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
