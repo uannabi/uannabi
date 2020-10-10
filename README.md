@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 <hr>
 
+<p align="center">
+<summary>:zap: Github Stats</summary>
 
-
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Uannabi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true&hide_border=true" />
-
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
+</p>
