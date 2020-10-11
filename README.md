@@ -40,3 +40,14 @@ Here are some ideas to get you started:
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
 </p>
 
+## AWS <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
+
+### Analytics
+- EMR <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
+    - Cluster <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
+    - EMR Engine <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
+    - HDFS <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
+    
+- Athena <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
+- Elastic Service <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
+     
