@@ -43,11 +43,14 @@ Here are some ideas to get you started:
 ## AWS <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 
 ### Analytics
-- EMR <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
-    - Cluster <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
-    - EMR Engine <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
-    - HDFS <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
+<code> <img height="50" alt="EMR" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
+<code> <img height="50" alt="Athena" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
+<code> <img height="50" alt="Elastic Service" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
+
+ - #### Resource
+<code> <img height="50" alt="cluster" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
+<code> <img height="50" alt="EMR ENgine" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
+<code> <img height="50" alt="HDFS" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
     
-- Athena <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
-- Elastic Service <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
+
      
