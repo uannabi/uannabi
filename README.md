@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 
 ## AWS <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 
-### Analytics
+### Analytics(EMR || Athena || Elastic Service)
 <code> <img height="50" alt="EMR" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
 <code> <img height="50" alt="Athena" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
 <code> <img height="50" alt="Elastic Service" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
 
- - #### Resource
+ - #### Resource (Cluster | EMR ENGINE | HDFS)
 <code> <img height="50" alt="cluster" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
 <code> <img height="50" alt="EMR ENgine" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
 <code> <img height="50" alt="HDFS" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
