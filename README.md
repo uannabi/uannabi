@@ -31,5 +31,12 @@ Here are some ideas to get you started:
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/plot_ly-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jenkins.svg"> </code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
 </p>
 
