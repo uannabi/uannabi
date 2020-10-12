@@ -1,5 +1,5 @@
 ### Hi there, 👋  I'm Zahid aka Uannabi
-### Data Engineer |  DevOps 
+### Python Dev | Data Engineer |  DevOps 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -44,15 +44,23 @@ I want to make difference and willing to work hard for skillful career rather th
 
 ## AWS <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 
-### Analytics(EMR || Athena || Elastic Service)
-<code> <img height="50" alt="EMR" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
-<code> <img height="50" alt="Athena" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
-<code> <img height="50" alt="Elastic Service" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
+### Analytics
+<code> EMR <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
+<code> Athena <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
+<code> Elastic Service <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
 
- - #### Resource (Cluster | EMR ENGINE | HDFS)
-<code> <img height="50" alt="cluster" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
-<code> <img height="50" alt="EMR ENgine" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
-<code> <img height="50" alt="HDFS" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
+ - #### Resource 
+<code> Cluster <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
+<code> EMR ENGINE <img height="50"  src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
+<code> HDFS <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
+
+### Compute 
+<code> EC2 <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/ec2.png"> </code>
+<code> Elastic Beanstalk <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awseb.png"> </code>
+<code> Auto Scaling <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awsautoScaling.png"> </code>
+<code> SAM <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/sam.png"> </code>
+<code> Lambda <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awslambda.png"> </code>
+
     
 
      
