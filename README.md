@@ -45,11 +45,9 @@ I want to make difference and willing to work hard for skillful career rather th
 ## AWS <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 
 ### Analytics
-<p align="center" > 
 <code> AWS EMR <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
 <code> AWS Athena <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
 <code> AWS Elastic Service <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
-</p>
 
 ### Application Integration
 <code> AWS SNS <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/applicationIntegration/amazonSNS.png"> </code>
@@ -65,6 +63,25 @@ I want to make difference and willing to work hard for skillful career rather th
 ### Database
 <code> AWS RDS <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/database/dynamodb.png"> </code>
 <code> AWS Dynamodb <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/database/rds.png"> </code>
+
+### Developer 
+<code> AWS Cloud9 <img height="50" src="https://github.com/uannabi/-/tree/master/resource/aws/developer"> </code>
+
+### Management & Governance
+<code> AWS Auto Scaling Group <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/management%26governce/awsautoscaling.png"> </code>
+<code> AWS CloudWatch <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/management%26governce/awscloudwathc.png"> </code>
+
+### Mobile & Frontend 
+<code> AWS Amplify <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/mobile%26frontend/amplify.png"> </code>
+<code> AWS API Gateway <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/mobile%26frontend/awsapigatway.png"> </code>
+
+### Network & Content Delivery 
+<code> AWS CloudFront <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/amazoncloudfont.png"> </code>
+<code> AWS API Gateway <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/apigateway.png"> </code>
+<code> AWS Route 53 <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/rout53.png"> </code>
+<code> AWS VPC <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/vpc.png"> </code>
+
+
 
 
      
