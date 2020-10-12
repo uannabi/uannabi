@@ -45,21 +45,22 @@ I want to make difference and willing to work hard for skillful career rather th
 ## AWS <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 
 ### Analytics
-<code> EMR <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
-<code> Athena <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
-<code> Elastic Service <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
+<code> AWS EMR <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emr.png"> </code>
+<code> AWS Athena <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonathena.png"> </code>
+<code> AWS Elastic Service <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/amazonElasticService.pn.png"> </code>
 
- - #### Resource 
-<code> Cluster <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/cluster.png"> </code>
-<code> EMR ENGINE <img height="50"  src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/emrEngine.png"> </code>
-<code> HDFS <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/analytics/hdfspng.png"> </code>
+### Application Integration
+ <code> AWS SNS <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/applicationIntegration/amazonSNS.png"> </code>
+ <code> AWS Queue <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/applicationIntegration/amazonquee.png"> </code>
 
 ### Compute 
-<code> EC2 <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/ec2.png"> </code>
-<code> Elastic Beanstalk <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awseb.png"> </code>
+<code> AWS EC2 <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/ec2.png"> </code>
+<code> AWS EB <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awseb.png"> </code>
 <code> Auto Scaling <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awsautoScaling.png"> </code>
-<code> SAM <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/sam.png"> </code>
-<code> Lambda <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awslambda.png"> </code>
+<code> AWS SAM <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/sam.png"> </code>
+<code> AWS Lambda <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/compute/awslambda.png"> </code>
+
+### Database
 
     
 
