@@ -83,10 +83,10 @@ I want to make difference and willing to work hard for skillful career rather th
 
 
 ## Google <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
-<code> google App Engine <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
-<code> google Map <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
-<code> google Big Query <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
-<code> google AdMob <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
+<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
 
 
 
