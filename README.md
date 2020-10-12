@@ -82,11 +82,13 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> AWS VPC <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/vpc.png"> </code>
 
 
-## Google <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
+## Google <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
 <code> google App Engine <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
 <code> google Map <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
 <code> google Big Query <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
 <code> google AdMob <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
+
+
 
 
 
