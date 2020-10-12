@@ -65,7 +65,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> AWS Dynamodb <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/database/rds.png"> </code>
 
 ### Developer 
-<code> AWS Cloud9 <img height="50" src="https://github.com/uannabi/-/tree/master/resource/aws/developer"> </code>
+<code> AWS Cloud9 <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/developer/awsC9.png"> </code>
 
 ### Management & Governance
 <code> AWS Auto Scaling Group <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/management%26governce/awsautoscaling.png"> </code>
@@ -81,6 +81,12 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> AWS Route 53 <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/rout53.png"> </code>
 <code> AWS VPC <img height="50" src="https://github.com/uannabi/-/blob/master/resource/aws/network%26content/vpc.png"> </code>
 
+
+## Google <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
+<code> google App Engine <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
+<code> google Map <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
+<code> google Big Query <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
+<code> google AdMob <img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
 
 
 
