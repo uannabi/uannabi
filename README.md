@@ -44,21 +44,21 @@ I want to make difference and willing to work hard for skillful career rather th
 
 ### <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
 <p align="center">
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/emr.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/athena.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/c9.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/lambda.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/loadBalancer.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/sqs.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/vpc.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/cloudfront.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/cw.svg"> </code>
-<code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/awsN/apigateway.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/emr.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/athena.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/c9.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/lambda.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/loadBalancer.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/sqs.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/vpc.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/cloudfront.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/cw.svg"> </code>
+<code> <img height="60" src="https://github.com/uannabi/-/blob/master/resource/awsN/apigateway.svg"> </code>
 
 </p>
 
