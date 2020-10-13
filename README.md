@@ -42,8 +42,11 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
 </p>
 
-### <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
+
 <p align="center">
+
+### <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
+
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/emr.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/athena.svg"> </code>
@@ -62,6 +65,7 @@ I want to make difference and willing to work hard for skillful career rather th
 
 </p>
 
+<p align="Center">
 
 ###  <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
@@ -69,7 +73,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
 <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
 
-
+</p>
 
 
 
