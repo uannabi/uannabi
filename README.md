@@ -1,4 +1,4 @@
-# ![Uannabi's header](https://github.com/uannabi/-/blob/master/resource/advertising.gif)
+# ![Uannabi's header](https://www.influencermarketingsingapore.com/wp-content/uploads/2018/04/1__JJTknJYPxJPLNEEB3jh7Q.gif)
 ### Hi there, 👋  I'm Zahid aka Uannabi
 ### Python Dev | Data Engineer |  DevOps 
 
