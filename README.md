@@ -17,7 +17,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
 - 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/animus/)
+- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/animus/)
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
