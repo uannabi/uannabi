@@ -27,6 +27,11 @@ I want to make difference and willing to work hard for skillful career rather th
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
 </p>
 
+
+## let's connect 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/animus/)
+
+
 ## Experienced with 
 <p align="center" >
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
