@@ -19,7 +19,9 @@ I want to make difference and willing to work hard for skillful career rather th
 - 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/animus/)
 
-### 
+### get connected
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg">(https://https://www.facebook.com/zahid.uan/) </code>
+
 
 <strong>🔭 you can start from here ...</strong>
 
