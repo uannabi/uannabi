@@ -20,7 +20,10 @@ I want to make difference and willing to work hard for skillful career rather th
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/animus/)
 
 ### get connected
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg">(https://https://www.facebook.com/zahid.uan/) </code>
+<p align="center">
+<a herf="https://www.facebook.com/zahid.uan/"> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/social/facebook-ar21.svg"> </a>
+</p>
+
 
 
 <strong>🔭 you can start from here ...</strong>
