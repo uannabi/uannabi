@@ -1,5 +1,5 @@
-[<img src="https://github.com/uannabi/-/blob/master/resource/caver.gif" align="center" height="180px"/>]()
-### Hi there, 👋  I'm Zahid aka Uannabi
+
+## Hi there, 👋  I'm Zahid aka Uannabi
 ### Python Dev | Data Engineer |  DevOps 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
