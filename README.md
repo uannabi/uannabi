@@ -23,25 +23,6 @@ I want to make difference and willing to work hard for skillful career rather th
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Stackoverflow"/>](https://stackoverflow.com/users/7875250/zahid-uan-nabi)
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/uan_nabi)
 
-
-
-
-<strong>🔭 you can start from here ...</strong>
-
-<a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
-<a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
-
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<hr>
-
-<p align="center">
-<summary>:zap: Github Stats</summary>
-
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
-</p>
-
-
 ## Experienced with 
 <p align="center" >
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
@@ -88,6 +69,23 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lex.svg"> </code>
 
 </p>
+
+
+<strong>🔭 you can start from here ...</strong>
+
+<a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
+<a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
+
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+<hr>
+
+<p align="center">
+<summary>:zap: Github Stats</summary>
+
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
+</p>
+
 
 
 
