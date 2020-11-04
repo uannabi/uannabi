@@ -35,7 +35,6 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jenkins.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
 </p>
 
