@@ -67,6 +67,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lambda.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/loadBalancer.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redis.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redshift.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
