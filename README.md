@@ -1,11 +1,8 @@
 
 ## Hi there, 👋  I'm Zahid aka Uannabi
-### Python Dev | Data Engineer |  DevOps 
+### Python Dev | Data Scientist |  DevOps 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
-
 
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges & I’ve completed my graduation from CSE year of 2016.
 <br>
@@ -69,6 +66,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redis.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redshift.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sagemaker.svg"> </code>
+<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rekognition.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
