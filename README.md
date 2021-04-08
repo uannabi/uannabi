@@ -93,7 +93,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <p align="center">
 <summary>:zap: Github Stats</summary>
 
-<img src="https://github-readme-stats.codestackr.vercel.app/api?username=uannabi&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true" alt="Uan Nabi | Stats" />
 </p>
 
 
