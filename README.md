@@ -14,9 +14,11 @@ I want to make difference and willing to work hard for skillful career rather th
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python
-- 📫 How to reach me: [zahid_sc@hotmail.fr](zahid_sc@hotmail.fr)
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)
+[![Twitter Badge](https://img.shields.io/badge/-@uan_nabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uan_nabi)](https://twitter.com/uan_nabi)
+[![Gmail Badge](https://img.shields.io/badge/zahid-hotmail-brightgreenc14438?style=flat&logo=hotmail&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
 ## Experienced with 
 <p align="center" >
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
