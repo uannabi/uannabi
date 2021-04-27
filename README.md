@@ -13,7 +13,7 @@ I want to make difference and willing to work hard for skillful career rather th
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
-- 💬 Ask me about Python
+- 💬 Ask me about Python & AWS
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)
