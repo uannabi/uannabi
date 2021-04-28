@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>
 
-### Data Science & Big Data Analysis Enthusiasts | Python & Server Nerd 
+### Data Science & Big Data Analysis Enthusiasts | Python & AWS Nerd 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
