@@ -9,7 +9,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
-- 🔭 I’m currently working on ad [ada-asia](https://ada-asia.com/) as Data Insights
+- 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
@@ -87,9 +87,11 @@ I want to make difference and willing to work hard for skillful career rather th
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
 <hr>
 <strong>Try this article to enrich knowledge</strong>
+<br>
 <p>
--  First one  [5 V for Big Data Analysis](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) on medium
--  I’m currently learning Deep learning
+
+- First one  [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) on medium
+- Second one  [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) on medium
 </p>
 
 
