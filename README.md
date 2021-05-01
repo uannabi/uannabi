@@ -79,12 +79,15 @@ I want to make difference and willing to work hard for skillful career rather th
 <code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lex.svg"> </code>
 
 </p>
-
+<hr>
 
 <strong>🔭 you can start from here ...</strong>
 
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
+<hr>
+<strong>Try this article to enrich knowledge</strong>
+ - Article[5 V for Big Data Analysis](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
