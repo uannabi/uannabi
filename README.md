@@ -87,7 +87,11 @@ I want to make difference and willing to work hard for skillful career rather th
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
 <hr>
 <strong>Try this article to enrich knowledge</strong>
- - Article[5 V for Big Data Analysis](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
+<p>
+-  First one  [5 V for Big Data Analysis](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) on medium
+-  I’m currently learning Deep learning
+</p>
+
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
