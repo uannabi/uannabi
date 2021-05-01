@@ -86,7 +86,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
 <hr>
-<strong>Try this article to enrich knowledge</strong>
+<strong>Try this articles to enrich knowledge</strong>
 <br>
 <p>
 
