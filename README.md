@@ -10,7 +10,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
-- 🌱 I’m currently learning Deep learning & Tableau 
+- 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
 - 👯 I’m looking to collaborate on PySpark
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python & AWS
