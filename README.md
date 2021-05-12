@@ -11,7 +11,7 @@ I want to make difference and willing to work hard for skillful career rather th
 
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
-- 👯 I’m looking to collaborate on PySpark
+- 👯 I’m looking to collaborate on ETL 
 - 🤔 I’m looking for help with Data Engineering stuff
 - 💬 Ask me about Python & AWS
 
