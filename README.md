@@ -5,7 +5,7 @@
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challengess.
+Data Scientist with 2+ years of professional experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in clustering, predictive modeling, data processing, data mining algorithms, and scripting language in python. Capable of creating, developing, testing, and deploying highly adaptive diverse service to translate business and function qualification into substantial deliverables. 
 <br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 
