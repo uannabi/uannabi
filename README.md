@@ -19,7 +19,10 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 [![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)
 [![Medium Badge](https://img.shields.io/badge/-@zahid.uan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@zahid.uan)](https://medium.com/@zahid.uan)
 [![Twitter Badge](https://img.shields.io/badge/-@uan_nabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uan_nabi)](https://twitter.com/uan_nabi)
-[![Hotmail Badge](https://img.shields.io/badge/zahid-hotmail-brightgreenc14438?style=flat&logo=hotmail&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
+[![Hotmail Badge](https://img.shields.io/badge/zahid-hotmail-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/zahidunnabi)](https://www.kaggle.com/zahidunnabi)
+
+
 ## Experienced with 
 <p align="center" >
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
