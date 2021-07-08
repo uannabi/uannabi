@@ -23,7 +23,7 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/zahidunnabi)](https://www.kaggle.com/zahidunnabi)
 
 
-## Experienced with 
+## Already Played with 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Scala Badge](https://img.shields.io/badge/-Scala-black?style=flat&logo=Scala&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
