@@ -48,41 +48,6 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 
-
-###  <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/google_cloud-ar21.svg"> </code>
-<p align="Center">
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_appengine-ar21.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_maps.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_bigquery.svg"> </code>
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/google_admob.svg"> </code>
-
-</p>
-
-### <code> <img height="70" src="https://github.com/uannabi/-/blob/master/resource/amazon_aws-ar21.svg"> </code>
-
-<p align="center">
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/ec2.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/emr.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/athena.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/c9.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lambda.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/loadBalancer.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rds.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redis.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/redshift.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sagemaker.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/rekognition.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/route53.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/s3.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sns.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/sqs.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/vpc.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/cloudfront.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/cw.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/apigateway.svg"> </code>
-<code> <img height="80" src="https://github.com/uannabi/-/blob/master/resource/awsN/lex.svg"> </code>
-
-</p>
 <hr>
 
 <strong>🔭 you can start from here ...</strong>
