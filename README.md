@@ -7,7 +7,8 @@
 
 Data Scientist with 2+ years of professional experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in clustering, predictive modeling, data processing, data mining algorithms, and scripting language in python. Capable of creating, developing, testing, and deploying highly adaptive diverse service to translate business and function qualification into substantial deliverables. 
 <br>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
+
+[comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
