@@ -14,7 +14,7 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
 - 👯 I’m looking to collaborate on Data Science & Machine Learning
 - 🤔 I’m looking Data Science or Machine Learning Job
-- 💬 Ask me about Data Science
+- 💬 Ask me about Data Science or Machine Learning 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)
