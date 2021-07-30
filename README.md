@@ -11,7 +11,7 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
-- 🌱 I’m currently gathering knowledge & experience on Data Science  & Tableau 
+- 🌱 I’m currently gathering knowledge & experience on Data Science  & ML 
 - 👯 I’m looking to collaborate on Data Science & Machine Learning
 - 🤔 I’m looking Data Science or Machine Learning Job
 - 💬 Ask me about Data Science or Machine Learning 
