@@ -1,7 +1,7 @@
 
 [comment]: <> (<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif?1492722351" width="30"/>  Hello ..... </h1>
-### Data Science & Big Data Analysis Enthusiasts | Python & AWS Nerd 
+### Data Science & Big Data Analysis Enthusiasts | Python & AWS Expert 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -53,7 +53,7 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 
 <hr>
 
-<strong>🔭 Basic some repository ...</strong>
+<strong>🔭 Basic some repository  ...</strong>
 
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
