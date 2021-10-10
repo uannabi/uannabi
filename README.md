@@ -13,8 +13,8 @@ Data Scientist with 2+ years of professional experience in building data-intensi
 - 🔭 I’m currently working at [ada-asia](https://ada-asia.com/) as Data Insights
 - 🌱 I’m currently gathering knowledge & experience on Data Science & MLOps
 - 👯 I’m looking to collaborate on Data Science & Machine Learning 
-- 🤔 I’m looking Data Science or Machine Learning or Blockchain Job
-- 💬 Ask me about Data Science or Machine Learning
+- 🤔 I’m looking Data Science or Machine Learning or Blockchain Job 
+- 💬 Ask me about Data Science, Machine Learning and Food
 
 
 
