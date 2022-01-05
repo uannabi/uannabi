@@ -14,7 +14,7 @@ Data Scientist with 5+ years of professional experience in building data-intensi
 - 🌱 I’m currently gathering knowledge & experience on Data Science & MLOps
 - 👯 I’m looking to collaborate on BlockChain & Machine Learning 
 - 🤔 I’m looking Data Science or Machine Learning or Blockchain Job 
-- 💬 Ask me about Data Science, Machine Learning and Blockchain 
+- 💬 Ask me about Data Science & Blockchain 
 
 
 
