@@ -1,11 +1,11 @@
 
 [comment]: <> (<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif?1492722351" width="30"/>  Hello ..... </h1>
-<strong>Data Science & Big Data Analysis Enthusiasts | Python & AWS Expert</strong> 
+<strong>Data Engineer | Data Analyst | Crypto | Python & AWS Expert</strong> 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Data Engineer with 6 years of experience as a Data insights and Engineer in Internet Behaviours & Telco Data. Well acquainted with Python, SQL, Hadoop, OLTP, OLAP, Database & Data warehouse acquiring and wrangling data. Proficient in AWS infrastructure and Tableau. 
+Data Engineer with 8 years of experience as a Data insights and Engineer in Internet Behaviours & Telco Data. Well acquainted with Python, SQL, Hadoop, OLTP, OLAP, Database & Data warehouse acquiring and wrangling data. Proficient in AWS infrastructure and Tableau. 
 <br>
 
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
