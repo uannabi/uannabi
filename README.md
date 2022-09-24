@@ -14,7 +14,7 @@ Data Engineer with 8 years of experience as a Data insights and Engineer in Inte
 - 🌱 I’m currently gathering knowledge & experience on Data Science & MLOps
 - 👯 I’m looking to collaborate on BlockChain 
 - 🤔 I’m looking Data Science or Blockchain Job 
-- 💬 Ask me about Data Science, Blockchain & NFT
+- 💬 Ask me about Nothing
 
 
 
