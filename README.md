@@ -5,7 +5,7 @@
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Data Engineer with 8 years of experience as a Data insights and Engineer in Internet Behaviours & Telco Data. Well acquainted with Python, SQL, Hadoop, OLTP, OLAP, Database & Data warehouse acquiring and wrangling data. Proficient in AWS infrastructure and Tableau. 
+Data Engineer with 8 years of experience as a Data insights and Engineer in Internet Behaviours & Telco Data. Well acquainted with Python, SQL, Hadoop, OLTP, OLAP, Database & Data warehouse acquiring and wrangling data. Proficient in AWS and Tableau. 
 <br>
 
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
