@@ -52,6 +52,10 @@ Data Engineer with 8 years of experience as a Data insights and Engineer in Inte
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 
 <hr>
+<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="49.5%" height="10.0%"/> 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=uannabi&theme=merko" width="100%"/> 
+
 
 <strong>🔭 Basic some repository  ...</strong>
 
@@ -70,13 +74,6 @@ Data Engineer with 8 years of experience as a Data insights and Engineer in Inte
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <hr>
-
-<p align="center">
-<summary>:zap: Github Stats</summary>
-
-
-</p>
-<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=uannabi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uannabi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 
 
