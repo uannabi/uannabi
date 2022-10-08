@@ -52,7 +52,7 @@ Data Engineer with 8 years of experience as a Data insights and Engineer in Inte
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko" width="40%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="40%" height="10.0%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"width="40%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="40%" height="10.0%"/> 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=uannabi&theme=merko" width="100%"/> 
 
