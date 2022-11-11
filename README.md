@@ -68,8 +68,8 @@ Data Engineer with 8 years of experience as a Data insights and Engineer in Inte
 <br>
 <p>
 
-- First one  [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
-- Second one  [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) 
+- First one  ABC about Big data Analysis [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
+- Second one [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) 
 - Third one  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
 </p>
 
