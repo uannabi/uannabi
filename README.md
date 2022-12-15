@@ -56,7 +56,7 @@ Data Engineer with 8 years of experience as a Data insights and Engineer in Inte
 <img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="50%" height="10.0%"/> 
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=uannabi&theme=merko" width="100%"/> 
+
 
 
 <strong>🔭 Basic some repository  ...</strong>
