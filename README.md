@@ -5,7 +5,13 @@
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Data Engineer with 8 years of experience as a Data insights and Engineer in Internet Behaviours & Telco Data. Well acquainted with Python, SQL, Hadoop, OLTP, OLAP, Database & Data warehouse acquiring and wrangling data. Proficient in AWS and Tableau. 
+I am a Data Insights & Analytics Engineer with a passion for driving actionable insights from data. I have a strong background in data engineering, predictive analytics, data visualization, and machine learning. I am an experienced problem-solver with a proven track record of developing innovative solutions to complex business challenges.
+<br>
+I have a Bachelor's Degree in Computer Science, and I have experience with several programming languages and software packages, including Python, SQL & Tableau. I am also highly skilled at data wrangling, data cleansing, and data modeling.
+<br>
+I have a deep understanding of how to use data to solve complex business problems and drive decisions. I am results-oriented and strive to provide insights that are meaningful, actionable, and timely. I am also highly collaborative and have experience working with stakeholders across all levels of an organization.
+<br>
+I am a self-starter and a team player who is excited about the opportunity to leverage my data engineering and analytics skills to help your organization drive success.
 <br>
 
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
