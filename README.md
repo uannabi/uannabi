@@ -20,7 +20,7 @@ I am a self-starter and a team player who is excited about the opportunity to le
 - 🌱 I’m currently gathering knowledge & experience on Data Science & Blockchain
 - 👯 I’m looking to collaborate on BlockChain 
 - 🤔 I’m looking Data Science or Blockchain Job 
-- 💬 Ask me about Nothing
+- 💬 Ask me about data insights
 
 
 
