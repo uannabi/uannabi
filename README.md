@@ -19,7 +19,7 @@ I am a self-starter and a team player who is excited about the opportunity to le
 - 🔭 I’m currently working at [Fasset ](https://fasset.io/) as Data Engineer/Analyst
 - 🌱 I’m currently gathering knowledge & experience on Data Science & Blockchain
 - 👯 I’m looking to collaborate on BlockChain 
-- 🤔 I’m looking Data Science or Blockchain Job 
+- 🤔 I’m looking Data Engineer or Data Analyst Job
 - 💬 Ask me about data insights
 
 
