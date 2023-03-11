@@ -17,7 +17,7 @@ I am a self-starter and a team player who is excited about the opportunity to le
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
 - 🔭 I’m currently working as a Data Engineer/Analyst
-- 🌱 I’m currently gathering knowledge & experience on Data Science & Blockchain
+- 🌱 I’m currently gathering knowledge & experience on Data Engineering & ML Models
 - 👯 I’m looking to collaborate on BlockChain 
 - 🤔 I’m looking Data Engineer or Data Analyst Job
 - 💬 Ask me about data insights
