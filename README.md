@@ -16,7 +16,7 @@ I am a self-starter and a team player who is excited about the opportunity to le
 
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
-- 🔭 I’m currently working as a Data Engineer/Analyst
+- 🔭 I’m currently working as a Python Engineer Data & Analytics at LSEG
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & ML Models
 - 👯 I’m looking to collaborate on Data Engineering & warehhousing 
 - 🤔 I’m looking Data Engineer or Data Analyst Profession
