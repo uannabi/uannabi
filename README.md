@@ -1,7 +1,7 @@
 
 [comment]: <> (<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif?1492722351" width="30"/>  Hello ..... </h1>
-<strong>Data Engineer/Analyst | Tableau| Python & AWS Expert</strong> 
+<strong>Data Engineer/Analyst | Tableau| Python Data & Analytics Engineer</strong> 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
