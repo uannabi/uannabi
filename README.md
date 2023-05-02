@@ -5,14 +5,11 @@
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a Data Insights & Analytics Engineer with a passion for driving actionable insights from data. I have a strong background in data engineering, predictive analytics, data visualization, and machine learning. I am an experienced problem-solver with a proven track record of developing innovative solutions to complex business challenges.
-<br>
-I have a Bachelor's Degree in Computer Science, and I have experience with several programming languages and software packages, including Python, SQL & Tableau. I am also highly skilled at data wrangling, data cleansing, and data modeling.
-<br>
-I have a deep understanding of how to use data to solve complex business problems and drive decisions. I am results-oriented and strive to provide insights that are meaningful, actionable, and timely. I am also highly collaborative and have experience working with stakeholders across all levels of an organization.
-<br>
-I am a self-starter and a team player who is excited about the opportunity to leverage my data engineering and analytics skills to help your organization drive success.
-<br>
+In today's data-driven world, insights derived from data can be the key to unlocking success for any organization. Meet a Data Insights & Analytics Engineer with a passion for turning data into actionable insights - and that's where GitHub comes into play. With a strong background in data engineering, predictive analytics, data visualization, and machine learning, this individual has proven to be an innovative problem-solver with a talent for driving results. 
+</br>
+Armed with a Bachelor's Degree in Computer Science and proficiency in programming languages such as Python and SQL, as well as software packages such as Tableau, this individual has honed their skills in data wrangling, data cleansing, and data modeling. They have a deep understanding of how to use data to solve complex business problems and drive decisions. 
+</br>
+Collaborative and experienced in working with stakeholders across all levels of an organization, they are a self-starter and a team player who is eager to use their data engineering and analytics skills to help your organization succeed. And with GitHub's powerful tools for collaboration and version control, this individual is ready to take on any data-driven challenge and drive success for your organization.
 
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
