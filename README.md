@@ -17,8 +17,7 @@ Collaborative and experienced in working with stakeholders across all levels of 
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & ML Modeling.
 - 👯 I’m looking to collaborate on Data Engineering, Data Migrations and Data Warehhousing 
 - 🤔 I’m looking Data Engineer & Analytics collaboration
-- 💬 Ask me about Data Mining, Clearning and Migrations 
-
+- 💬 Ask me about Coffee and Steak
 
 
 
