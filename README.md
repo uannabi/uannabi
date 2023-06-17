@@ -13,7 +13,7 @@ Collaborative and experienced in working with stakeholders across all levels of 
 
 [comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
-- 🔭 I’m currently working at LSEG
+- 🔭 I’m currently working at LSEG.
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & ML Modeling.
 - 👯 I’m looking to collaborate on Data Engineering, Data Migrations and Data Warehhousing.
 - 🤔 I’m looking Data Engineer & Analytics collaboration.
