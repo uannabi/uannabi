@@ -11,7 +11,6 @@ Armed with a resolute Bachelor's Degree in Computer Science and Engineering with
 <br>
 Moreover, this accomplished professional excels in collaborative environments, adeptly engaging stakeholders at all organizational levels. A self-motivated initiator and an invaluable team players, they are enthusiastically poised to channel their data engineering and analytics proficiencies towards propelling your organization to unprecedented heights of success. Harnessing the formidable tools for collaboration and version control offered by GitHub, this exceptional talent is primed to fearlessly conquer any data-driven obstacle and propel your organization towards a future filled with triumph.
 <br>
-[comment]: <> (<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />)
 
 - 🔭 I’m currently working at LSEG.
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & ML Modeling.
