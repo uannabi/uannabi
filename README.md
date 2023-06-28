@@ -13,7 +13,7 @@ Moreover, this accomplished professional excels in collaborative environments, a
 <br>
 
 - 🔭 I’m currently working at LSEG.
-- 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & ML Modeling.
+- 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & Data Modeling.
 - 👯 I’m looking to collaborate on Data Engineering, Data Migrations and Data warehousing.
 - 🤔 I’m looking Data Engineer & Analytics collaboration.
 - 💬 Ask me about Coffee and Steak.
