@@ -16,7 +16,7 @@ Moreover, this accomplished professional excels in collaborative environments, a
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & Data Modeling.
 - 👯 I’m looking to collaborate on Data Engineering, Data Migrations & Data warehousing.
 - 🤔 I’m looking for solutions.
-- 💬 Ask me about food...
+- 💬 Ask me about nothing!
 
 
 
