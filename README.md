@@ -14,7 +14,7 @@ Moreover, this accomplished professional excels in collaborative environments, a
 
 - 🔭 I’m currently working at LSEG.
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & Data Modeling.
-- 👯 No collaboration for now.
+- 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
 - 💬 Ask me about nothing!
 
