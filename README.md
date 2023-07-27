@@ -13,7 +13,7 @@ Moreover, this accomplished professional excels in collaborative environments, a
 <br>
 
 ``` 
-class Introdúction(github):
+class Introduction(github):
      def __init__(self, uannabi, work, expectation, collaboration, looking_for, knowledge_base):
           super().__init__(uannabi)
           self.work = LSEG
