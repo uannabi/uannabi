@@ -20,7 +20,7 @@ class Introduction(github):
           self.expectation = data_eingineering
           self.collaboration = None
           self.looking_for = None
-          self.knowledge_base = I_dont_know
+          self.knowledge_base = I_dont_know_!
 ```
 
 - 🔭 I’m currently working at LSEG.
