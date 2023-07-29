@@ -21,6 +21,7 @@ class Introduction(github):
           self.collaboration = None
           self.looking_for = None
           self.knowledge_base = I_dont_know_!
+          self.historyLenght = all
 ```
 
 - 🔭 I’m currently working at LSEG.
