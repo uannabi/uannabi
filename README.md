@@ -25,7 +25,7 @@ class Introduction(github):
 ```
 
 - 🔭 I’m currently working at LSEG.
-- 🌱 I’m currently gathering knowledge & experience on Data Engineering, DBT & Data Modeling.
+- 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
 - 💬 Ask me about ¬`!
