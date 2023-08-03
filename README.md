@@ -28,7 +28,7 @@ class Introduction(github):
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
-- 💬 Ask me about ¬`!
+- 💬 Ask me about ANYTING!
 
 
 
