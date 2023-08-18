@@ -1,6 +1,6 @@
 
 [comment]: <> (<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif?1492722351" width="30"/>  Hello there!!! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif?1492722351" width="30"/>  Hello there! </h1>
 <strong>Python Engineer Data & Analytics </strong> 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
