@@ -4,7 +4,7 @@
 <strong>Python Engineer Data & Analytics </strong> 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-In today's digitally connected landscape, the role of a Data Insights & Analytics Engineer is not just a luxury but a critical asset for achieving transformative business outcomes. Here I am, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub.
+In today's digitally connected landscape, the role of a Data Insights and analytics Engineer is not just a luxury but a critical asset for achieving transformative business outcomes. Here I am, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub.
 <br>
 I hold a Bachelor's Degree in Computer Science and Engineering, further enhanced by a mastery of programming languages like Python and SQL, and proficient use of cutting-edge analytics tools like Tableau. My background spans across data engineering, predictive analytics, data visualization, and machine learning, proving my ability to turn multifaceted data into compelling narratives and actionable insights.
 <br>
