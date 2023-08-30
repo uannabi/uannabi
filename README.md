@@ -25,7 +25,7 @@ class Introduction(github):
           self.historyLength = '1'
 ```
 
-- 🔭 I’m currently working at LSEG.
+- 🔭 Currently working at LSEG.
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
