@@ -8,9 +8,9 @@ In today's digitally connected landscape, the role of a Data Insights and analyt
 <br>
 I hold a Bachelor's Degree in Computer Science and Engineering, further enhanced by a mastery of programming languages like Python and SQL, and proficient use of cutting-edge analytics tools like Tableau. My background spans across data engineering, predictive analytics, data visualization, and machine learning, proving my ability to turn multifaceted data into compelling narratives and actionable insights.
 <br>
-What sets me apart isn't merely my technical acumen but also my deep-rooted understanding of leveraging data as a strategic asset for solving complex business issues and driving informed decisions. I am not just a data engineer, I am a data strategist committed to transforming challenges into opportunities for organizational growth.
+What sets me apart isn't merely my technical acumen and my deep-rooted understanding of leveraging data as a strategic asset for solving complex business issues and driving informed decisions. I am not just a data engineer, I am a data strategist committed to transforming challenges into opportunities for organizational growth.
 <br>
-Thriving in collaborative settings, I effortlessly engage with stakeholders at every organizational level. As a proactive self-starter and an invaluable team player, I am eager to deploy my broad skill set in data engineering and analytics to elevate your organization to new heights of excellence. With GitHub as my innovation hub, I stand ready to address any data-centric challenges that come my way, steering your organization toward a future rich in accomplishments.
+Thriving in collaborative settings, I effortlessly engage with stakeholders at every organizational level. As a proactive self-starter and an invaluable team player, I am eager to deploy my broad data engineering and analytics skills to elevate your organization to new heights of excellence. With GitHub as my innovation hub, I stand ready to address any data-centric challenges that come my way, steering your organization toward a future rich in accomplishments.
 <br>
 
 ``` 
