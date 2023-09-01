@@ -6,7 +6,7 @@
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 In today's digitally connected landscape, the role of a Data Insights and analytics Engineer is not just a luxury but a critical asset for achieving transformative business outcomes. Here I am, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub.
 <br>
-I hold a Bachelor's Degree in Computer Science and Engineering, further enhanced by a mastery of programming languages like Python and SQL, and proficient use of cutting-edge analytics tools like Tableau. My background spans across data engineering, predictive analytics, data visualization, and machine learning, proving my ability to turn multifaceted data into compelling narratives and actionable insights.
+I hold a Bachelor's Degree in Computer Science and Engineering, further enhanced by a mastery of programming languages like Python and SQL, and proficient use of cutting-edge analytics tools like Tableau. My background spans data engineering, predictive analytics, data visualization, and machine learning, proving my ability to turn multifaceted data into compelling narratives and actionable insights.
 <br>
 What sets me apart isn't merely my technical acumen and my deep-rooted understanding of leveraging data as a strategic asset for solving complex business issues and driving informed decisions. I am not just a data engineer, I am a data strategist committed to transforming challenges into opportunities for organizational growth.
 <br>
@@ -29,7 +29,7 @@ class Introduction(github):
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
-- 💬 Ask me about ANYTHING!
+- 💬 Ask me about Nothing!
 
 
 
