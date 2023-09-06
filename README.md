@@ -19,7 +19,7 @@ class Introduction(github):
           super().__init__(uannabi)
           self.work = LSEG
           self.expectation = data_eingineering
-          self.collaboration = None
+          self.collaboration = Null
           self.looking_for = None
           self.knowledge_base = I_dont_know_!
           self.historyLength = '1'
