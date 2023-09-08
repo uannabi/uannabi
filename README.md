@@ -1,60 +1,49 @@
+# 👋 Hey there, I'm a Python Engineer in Data & Analytics!
 
-# Python Engineer in Data & Analytics
+<p align="center">
+  <a href="https://www.linkedin.com/in/animus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://zahid-uan-nabi.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-@zahid.uan-000000?style=flat&labelColor=000000&logo=Medium"></a>
+  <a href="https://twitter.com/uan_nabi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@uan_nabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
+  <a href="mailto:zahid_sc@hotmail.fr" target="_blank"><img alt="Email" src="https://img.shields.io/badge/zahid-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green"></a>
+  <a href="https://www.kaggle.com/zahidunnabi" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue"></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)
-[![Medium Badge](https://img.shields.io/badge/-@zahid.uan-000000?style=flat&labelColor=000000&logo=Medium&link=https://zahid-uan-nabi.medium.com/)](https://medium.com/@zahid-uan-nabi)
-[![Twitter Badge](https://img.shields.io/badge/-@uan_nabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uan_nabi)](https://twitter.com/uan_nabi)
-[![Hotmail Badge](https://img.shields.io/badge/zahid-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/zahidunnabi)](https://www.kaggle.com/zahidunnabi)
+## 🚀 Who I Am
 
-Hello there 👋,
+I'm driven by the passion for converting complex data into actionable insights. My toolbox includes Python, SQL, and state-of-the-art analytics tools like Tableau. But what truly sets me apart is my role as a data strategist, committed to leveraging data for organizational growth.
 
-Welcome to my GitHub profile. I am a Python Engineer specializing in Data & Analytics, fortified by a robust passion for converting complex data into groundbreaking solutions.
+## 📚 Education
 
+- **Bachelor's Degree in Computer Science and Engineering**
 
+## 🛠 Skills
 
-## 🎓 Educational Background
+- Programming Languages: `Python`, `SQL`
+- Analytics Tools: `Tableau`
+  
+## 💡 What Makes Me Unique
 
-- 📚 Bachelor's Degree in Computer Science and Engineering
+I am not just a data engineer. I am a data strategist committed to solving complex business issues. I thrive in collaborative settings, engage effortlessly with stakeholders, and drive informed decisions through data.
 
+## 🌐 Collaboration & Engagement
 
-
-## 🛠️ Technical Skills
-
-- **Programming Languages**: Python, SQL
-- **Analytics Tools**: Tableau
-
-
-## 🌟 Unique Selling Points
-
-What sets me apart is not just my technical acumen, but also my deep-rooted understanding of leveraging data as a strategic asset for solving complex business issues and driving informed decisions.
-
-
-
-## 🤝 Collaboration
-
-Thriving in collaborative settings, I effortlessly engage with stakeholders at every organizational level.
+My key strength is thriving in a team environment. I actively collaborate with:
 
 - Business Analysts
 - Data Scientists
 - Product Managers
 
-
-
-## 🚀 Ambitions
-
-As a proactive self-starter and an invaluable team player, I am eager to deploy my broad data engineering and analytics skills to elevate organizations to new heights of excellence.
-
-
-
-## 📈 Data Capabilities
-
-My background spans various aspects of data analytics including:
+## 📈 Data Specialties
 
 - Data Engineering
 - Predictive Analytics
 - Data Visualization
 - Machine Learning
+
+## 📞 Let's Connect!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or drop an [email](mailto:your.email@example.com).
+
 
 
 
