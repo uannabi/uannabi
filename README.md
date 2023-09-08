@@ -14,15 +14,56 @@ Thriving in collaborative settings, I effortlessly engage with stakeholders at e
 <br>
 
 ``` 
-class Introduction(github):
-     def __init__(self, uannabi, work, expectation, collaboration, looking_for, knowledge_base):
-          super().__init__(uannabi)
-          self.work = LSEG
-          self.expectation = data_eingineering
-          self.collaboration = Null
-          self.looking_for = None
-          self.knowledge_base = I_dont_know_!
-          self.historyLength = '1'
+class DataAnalyticsEngineer:
+    def __init__(self, name, degree, languages, tools):
+        self.name = name
+        self.degree = degree
+        self.languages = languages
+        self.tools = tools
+        self.stakeholders = []
+
+    def introduction(self):
+        return f"Here I am, {self.name}, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub."
+
+    def educational_background(self):
+        return f"I hold a {self.degree} in Computer Science and Engineering."
+
+    def technical_skills(self):
+        languages = ', '.join(self.languages)
+        tools = ', '.join(self.tools)
+        return f"Further enhanced by a mastery of programming languages like {languages}, and proficient use of cutting-edge analytics tools like {tools}."
+
+    def data_capabilities(self):
+        return "My background spans data engineering, predictive analytics, data visualization, and machine learning, proving my ability to turn multifaceted data into compelling narratives and actionable insights."
+
+    def unique_selling_points(self):
+        return "What sets me apart is my technical acumen and my deep-rooted understanding of leveraging data as a strategic asset for solving complex business issues and driving informed decisions."
+
+    def collaboration(self):
+        stakeholders = ', '.join(self.stakeholders)
+        return f"Thriving in collaborative settings, I effortlessly engage with stakeholders at every organizational level: {stakeholders}."
+
+    def ambition(self, organization):
+        return f"As a proactive self-starter and an invaluable team player, I am eager to deploy my broad data engineering and analytics skills to elevate {organization} to new heights of excellence."
+
+    def add_stakeholder(self, stakeholder):
+        self.stakeholders.append(stakeholder)
+
+    def full_profile(self):
+        return f"{self.introduction()}\n{self.educational_background()}\n{self.technical_skills()}\n{self.data_capabilities()}\n{self.unique_selling_points()}\n{self.collaboration()}\n{self.ambition('your organization')}"
+
+if __name__ == "__main__":
+    engineer = DataAnalyticsEngineer(name="John Doe", 
+                                     degree="Bachelor's Degree", 
+                                     languages=['Python', 'SQL'], 
+                                     tools=['Tableau'])
+
+    engineer.add_stakeholder('Business Analysts')
+    engineer.add_stakeholder('Data Scientists')
+    engineer.add_stakeholder('Product Managers')
+
+    print(engineer.full_profile())
+
 ```
 
 - 🔭 Currently working at LSEG.
