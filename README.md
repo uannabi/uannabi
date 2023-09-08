@@ -11,26 +11,25 @@ Hello there 👋,
 
 Welcome to my GitHub profile. I am a Python Engineer specializing in Data & Analytics, fortified by a robust passion for converting complex data into groundbreaking solutions.
 
----
+
 
 ## 🎓 Educational Background
 
 - 📚 Bachelor's Degree in Computer Science and Engineering
 
----
+
 
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, SQL
 - **Analytics Tools**: Tableau
 
----
 
 ## 🌟 Unique Selling Points
 
 What sets me apart is not just my technical acumen, but also my deep-rooted understanding of leveraging data as a strategic asset for solving complex business issues and driving informed decisions.
 
----
+
 
 ## 🤝 Collaboration
 
@@ -40,13 +39,13 @@ Thriving in collaborative settings, I effortlessly engage with stakeholders at e
 - Data Scientists
 - Product Managers
 
----
+
 
 ## 🚀 Ambitions
 
 As a proactive self-starter and an invaluable team player, I am eager to deploy my broad data engineering and analytics skills to elevate organizations to new heights of excellence.
 
----
+
 
 ## 📈 Data Capabilities
 
@@ -57,7 +56,7 @@ My background spans various aspects of data analytics including:
 - Data Visualization
 - Machine Learning
 
----
+
 
 ## 🧰 Tools I'm Experienced With
 
