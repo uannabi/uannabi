@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm a Python Engineer in Data & Analytics!
+# 👋 Hey there, I'm a Python Engineer in Data and analytics!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/animus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white"></a>
@@ -8,37 +8,16 @@
   <a href="https://www.kaggle.com/zahidunnabi" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue"></a>
 </p>
 
-## 🚀 Who I Am
+## 📌 Pinned
 
-I'm driven by the passion for converting complex data into actionable insights. My toolbox includes Python, SQL, and state-of-the-art analytics tools like Tableau. But what truly sets me apart is my role as a data strategist, committed to leveraging data for organizational growth.
+| Who I Am | Education | Skills | Unique Qualities |
+|----------|-----------|--------|------------------|
+| Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science and Engineering | Python, SQL, Tableau | Data strategist committed to solving complex business issues. |
 
-## 📚 Education
+| Collaboration & Engagement | Data Specialties |
+|----------------------------|-----------------|
+| Thrive in team environments, collaborating with Business Analysts, Data Scientists, and Product Managers | Data Engineering, Predictive Analytics, Data Visualization, Machine Learning |
 
-- **Bachelor's Degree in Computer Science and Engineering**
-
-## 🛠 Skills
-
-- Programming Languages: `Python`, `SQL`
-- Analytics Tools: `Tableau`
-  
-## 💡 What Makes Me Unique
-
-I am not just a data engineer. I am a data strategist committed to solving complex business issues. I thrive in collaborative settings, engage effortlessly with stakeholders, and drive informed decisions through data.
-
-## 🌐 Collaboration & Engagement
-
-My key strength is thriving in a team environment. I actively collaborate with:
-
-- Business Analysts
-- Data Scientists
-- Product Managers
-
-## 📈 Data Specialties
-
-- Data Engineering
-- Predictive Analytics
-- Data Visualization
-- Machine Learning
 
 ## 📞 Let's Connect!
 
