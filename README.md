@@ -17,7 +17,7 @@
 
 | Collaboration & Engagement | Data Specialties |
 |----------------------------|-----------------|
-| Thrive in team environments, collaborating with Business Analysts, Data Scientists, and Product Managers | Data Engineering, Predictive Analytics, Data Visualization, Machine Learning |
+| Thrive in team environments, collaborating with Business Analysts, Data Scientists, and Product Managers | Data Engineering, Predictive Analytics, Data Visualization, and Machine Learning |
 
 
 ## 📞 Let's Connect!
