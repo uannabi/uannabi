@@ -120,20 +120,6 @@ if __name__ == "__main__":
 - 🤔 I’m looking for ```__init__```
 - 💬 Ask me about data!
 
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animus/)](https://www.linkedin.com/in/animus/)
-[![Medium Badge](https://img.shields.io/badge/-@zahid.uan-000000?style=flat&labelColor=000000&logo=Medium&link=https://zahid-uan-nabi.medium.com/)](https://medium.com/@zahid-uan-nabi)
-[![Twitter Badge](https://img.shields.io/badge/-@uan_nabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uan_nabi)](https://twitter.com/uan_nabi)
-[![Hotmail Badge](https://img.shields.io/badge/zahid-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green&link=mailto:zahid_sc@hotmail.fr)](mailto:zahid_sc@hotmail.fr)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/zahidunnabi)](https://www.kaggle.com/zahidunnabi)
-
-
-## I Had quite a good experience with the following tools
-[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-
-
 <hr>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="50%" height="10.0%"/> 
