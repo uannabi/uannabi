@@ -22,7 +22,7 @@
 
 ## 📞 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or drop an [email](mailto:your.email@example.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [email](mailto:zahid_sc@hotmail.fr).
 
 
 
