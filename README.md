@@ -49,15 +49,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animus/) 
 [![Amazon AWS Badge](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=AWS&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Google Cloud Badge](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white)]()
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white)]()
 <!-- Add more badges here -->
 
 ---
 
 ## 💬 Contact Me
 
-Feel free to [reach out](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
+Feel free to [reach out](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animus/).
 
 
 
