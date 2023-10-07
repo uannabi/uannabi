@@ -31,7 +31,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animus/) 
 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]()
 [![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white)]()
-[![Scala Badge](https://img.shields.io/badge/-Scala-black?style=flat&logo=Scala&logoColor=white&)]()
+[![Scala Badge](https://img.shields.io/badge/-Scala-black?style=flat&logo=Scala&logoColor=white)]()
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white)]()
 [![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white)]()
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white)]()
