@@ -118,7 +118,7 @@ if __name__ == "__main__":
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
-- 💬 Ask me about data!
+- 💬 Ask me about ```01100100 01100001 01110100 01100001 00100000```
 
 <hr>
 <p>
