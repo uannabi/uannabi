@@ -114,7 +114,7 @@ if __name__ == "__main__":
 
 ```
 
-- 🔭 Currently working at LSEG.
+- 🔭 Currently working at LCH.
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```EOD```
 - 🤔 I’m looking for ```__init__```
