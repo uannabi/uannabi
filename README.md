@@ -128,7 +128,7 @@ if __name__ == "__main__":
 
 
 
-<strong>🔭 Basic some repository  ...</strong>
+<strong>🔭 Basic some repositories  ...</strong>
 
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
