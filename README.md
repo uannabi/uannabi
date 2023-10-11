@@ -13,7 +13,7 @@
 
 | Who I Am | Education | Skills | Unique Qualities |
 |----------|-----------|--------|------------------|
-| Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science and Engineering | Python, SQL, Tableau | Data strategist committed to solving complex business issues. |
+| Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science & Engineering | Python, SQL, Tableau | Data strategist committed to solving complex business issues. |
 
 | Collaboration & Engagement | Data Specialties |
 |----------------------------|-----------------|
