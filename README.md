@@ -11,7 +11,7 @@
 
 ## 📌 Pinned
 
-| Who I Am | Education | Skills | Unique Qualities |
+| Who I Am | Education | Skills | Special Qualities |
 |----------|-----------|--------|------------------|
 | Passion for converting complex data into actionable insights. | Bachelor's Degree in Computer Science & Engineering | Python, SQL, Tableau | Data strategist committed to solving complex business issues. |
 
