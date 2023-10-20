@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm a Python Engineer in Data and analytics!
-<p>I hold a Bachelor's Degree in Computer Science and Engineering, further enhanced by a mastery of programming languages like Python and SQL, and proficient use of cutting-edge analytics tools like Tableau. My background spans Backend Development, data engineering, predictive analytics, data visualization, and machine learning, proving my ability to turn multifaceted data into compelling narratives and actionable insights.</p>
+<p>Armed with a Bachelor's Degree in Computer Science and Engineering, I command expertise across Python, SQL, and cutting-edge analytics tools like Tableau. My realm extends from Backend Development to pioneering roles in data engineering, predictive analytics, data visualization, and machine learning. This isn't just proficiency; it's a robust command, a transformative capacity to morph complex data into striking narratives and decisive strategies. My background isn't just a skill set, but a testament to a powerhouse capable of steering the digital narrative through any challenge.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/animus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white"></a>
