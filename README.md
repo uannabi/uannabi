@@ -22,7 +22,7 @@
 
 ## 📞 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [email](mailto:zahid_sc@hotmail.fr).
+Connect or Drop email [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [email](mailto:zahid_sc@hotmail.fr).
 
 
 
