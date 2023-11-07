@@ -55,12 +55,6 @@ Connect on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [email](ma
 
 ---
 
-## 💬 Contact Me
-
-Feel free to [reach out](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animus/).
-
-
-
 ``` 
 class DataAnalyticsEngineer:
     def __init__(self, name, degree, languages, tools):
