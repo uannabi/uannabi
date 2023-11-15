@@ -9,7 +9,7 @@
   <a href="https://www.kaggle.com/zahidunnabi" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue"></a>
 </p>
 
-## 📌 Pinned
+## 📌 About me
 
 | Who I Am | Education | Skills | Special Qualities |
 |----------|-----------|--------|------------------|
