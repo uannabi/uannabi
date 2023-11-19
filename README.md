@@ -45,7 +45,7 @@ Connect on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [Email](ma
 [![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white)]()
 [![Apache Spark Badge](https://img.shields.io/badge/-ApacheCassandra-black?style=flat&logo=ApacheCassandra&logoColor=white)]()
 [![Apache Cassandra Badge](https://img.shields.io/badge/-animus-black?style=flat&logo=Python&logoColor=white)]()
-[![Elastic Badge](https://img.shields.io/badge/-Elastic-black?style=flat&logo=ElasticSearch&logoColor=white)]()
+[![Elastic Search Badge](https://img.shields.io/badge/-Elastic-black?style=flat&logo=Elastic&logoColor=white)]()
 [![Amazon AWS Badge](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=AWS&logoColor=white)]()
 [![Google Cloud Badge](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white)]()
 [![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white)]()
