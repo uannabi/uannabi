@@ -137,8 +137,7 @@ if __name__ == "__main__":
 #### The third article  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
 
 
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
 <hr>
 
 
