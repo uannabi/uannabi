@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/animus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-animus-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://zahid-uan-nabi.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-@zahid.uan-000000?style=flat&labelColor=000000&logo=Medium"></a>
   <a href="https://twitter.com/uan_nabi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@uan_nabi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
-  <a href="mailto:zahid_sc@hotmail.fr" target="_blank"><img alt="Email" src="https://img.shields.io/badge/zahid-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=green"></a>
-  <a href="https://www.kaggle.com/zahidunnabi" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=blue"></a>
+  <a href="mailto:zahid_sc@hotmail.fr" target="_blank"><img alt="Email" src="https://img.shields.io/badge/zahid-Email-brightgreenc14438?style=flat&logo=MicrosoftOutlook&logoColor=white"></a>
+  <a href="https://www.kaggle.com/zahidunnabi" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-follow%20me-blue?style=flat&logo=kaggle&logoColor=white"></a>
 </p>
 
 ## 📌 About me
