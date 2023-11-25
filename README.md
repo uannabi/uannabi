@@ -121,13 +121,13 @@ if __name__ == "__main__":
 
 
 
-<strong>🔭 Basic some repositories  ...</strong>
+<strong>🔭 Hightlighted repositories  ...</strong>
 
 <a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
 <a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
 <hr>
 
-## Try these article to enrich your knowledge on Medium
+## Try these articles to enrich your knowledge on Medium
 
 
 #### The first one ABC about Big Data Analysis [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
