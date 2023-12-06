@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm a Python Engineer in Data and analytics!
+# 👋 Hey there, I'm a Python Engineer in Data and Analytics!
 <p>Armed with a Bachelor's Degree in Computer Science and Engineering, I command expertise across Python, SQL, and cutting-edge analytics tools like Tableau, DAQ, D3 Notebook & Sagemaker. My realm extends from Backend Development to pioneering roles in data engineering, predictive analytics, data visualization, and Machine Learning. This isn't just proficiency; it's a robust command, a transformative capacity to morph complex data sets into striking narratives and decisive strategies. My background isn't just a skill set, but a testament to a powerhouse capable of steering the digital narrative through any challenge!</p>
 
 <p align="center">
