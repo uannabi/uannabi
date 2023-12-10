@@ -109,7 +109,7 @@ if __name__ == "__main__":
 
 - 🔭 Currently working at LCH [LSEG](https://www.lch.com/)
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
-- 👯 No collaboration !=```EOD```
+- 👯 No collaboration !=```01000101 01001111 01000100```
 - 🤔 I’m looking for ```01011111 01011111 01101001 01101110 01101001 01110100 01011111 01011111 ```
 - 💬 Ask me about ```01100100 01100001 01110100 01100001 00100000```
 
