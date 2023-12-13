@@ -27,7 +27,7 @@ Connect on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [Email](ma
 
 
 
-## 🧰 Tools I've Experienced With
+## 🧰 Tools I've experienced with
 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]()
 [![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white)]()
