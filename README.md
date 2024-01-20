@@ -91,7 +91,7 @@ class DataAnalyticsEngineer:
         self.stakeholders.append(stakeholder)
 
     def full_profile(self):
-        return f"{self.introduction()}\n{self.educational_background()}\n{self.technical_skills()}\n{self.data_capabilities()}\n{self.unique_selling_points()}\n{self.collaboration()}\n{self.ambition('your organization')}"
+        return f"{self.introduction()}\n{self.educational_background()}\n{self.technical_skills()}\n{self.data_capabilities()}\n{self.unique_selling_points()}\n{self.collaboration()}\n{self.ambition('LSEG')}"
 
 if __name__ == "__main__":
     engineer = DataAnalyticsEngineer(name="John Doe", 
