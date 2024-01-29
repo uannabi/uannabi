@@ -94,7 +94,7 @@ class DataAnalyticsEngineer:
         return f"{self.introduction()}\n{self.educational_background()}\n{self.technical_skills()}\n{self.data_capabilities()}\n{self.unique_selling_points()}\n{self.collaboration()}\n{self.ambition('LSEG')}"
 
 if __name__ == "__main__":
-    engineer = DataAnalyticsEngineer(name="John Doe", 
+    engineer = DataAnalyticsEngineer(name="Zahid Un Nabi", 
                                      degree="Bachelor's Degree", 
                                      languages=['Python', 'SQL'], 
                                      tools=['Tableau'])
