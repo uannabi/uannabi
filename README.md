@@ -22,7 +22,7 @@
 
 ## 📞 Let's Connect!
 
-Connect on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [Email](mailto:zahid_sc@hotmail.fr). Visit my website [my website](https://www.uannabi.me)
+Connect on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [Email](mailto:zahid_sc@hotmail.fr).
 
 
 
