@@ -67,7 +67,7 @@ class DataAnalyticsEngineer:
         return f"Here I am, {self.name}, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub."
 
     def educational_background(self):
-        return f"I hold a {self.degree} in Computer Science and Engineering."
+        return f"I hold a {self. degree} in Computer Science and Engineering."
 
     def technical_skills(self):
         languages = ', '.join(self.languages)
@@ -85,10 +85,10 @@ class DataAnalyticsEngineer:
         return f"Thriving in collaborative settings, I effortlessly engage with stakeholders at every organizational level: {stakeholders}."
 
     def ambition(self, organization):
-        return f"As a proactive self-starter and an invaluable team player, I am eager to deploy my broad data engineering and analytics skills to elevate {organization} to new heights of excellence."
+        return f" As a proactive self-starter and an invaluable team player, I am eager to deploy my broad data engineering and analytics skills to elevate {organization} to new heights of excellence."
 
     def add_stakeholder(self, stakeholder):
-        self.stakeholders.append(stakeholder)
+        self. stakeholders.append(stakeholder)
 
     def full_profile(self):
         return f"{self.introduction()}\n{self.educational_background()}\n{self.technical_skills()}\n{self.data_capabilities()}\n{self.unique_selling_points()}\n{self.collaboration()}\n{self.ambition('LSEG')}"
