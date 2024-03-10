@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm a Python Engineer in Data and Analytics!
+# 👋 Hey there, I'm a Python Engineer in Data and Analytics.
 <p>With vast experience in software engineering, I have developed a deep proficiency in Python, SQL, and advanced analytics tools like Tableau, DAQ, D3, Jupyter Notebook, EMR and Sagemaker. This extensive background has seamlessly transitioned into a pioneering role in Data Science, encompassing Data Engineering, Data Mining, Predictive Analytics, Data Visualization, and Machine Learning. More than just proficiency, my expertise represents a commanding ability to turn complex data sets into compelling narratives and actionable strategies. My journey from software engineering to data science is not merely a shift in skillset but a testament to my capacity to lead and innovate in the ever-evolving digital narrative.</p>
 
 <p align="center">
