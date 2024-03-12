@@ -64,7 +64,7 @@ class DataAnalyticsEngineer:
         self.stakeholders = []
 
     def introduction(self):
-        return f"Here I am, {self.name}, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub."
+        return f"Here I am, {self. name}, fortified by a robust passion for converting complex data into groundbreaking solutions, all backed by the collaborative and versioning strengths of GitHub."
 
     def educational_background(self):
         return f"I hold a {self. degree} in Computer Science and Engineering."
