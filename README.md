@@ -21,8 +21,7 @@
 
 
 ## 📞 Let's Connect!
-
-Connect on [LinkedIn](https://www.linkedin.com/in/animus/) or drop an [Email](mailto:zahid_sc@hotmail.fr).
+Connect on [LinkedIn](https://www.linkedin.com/in/animus/).
 
 
 
