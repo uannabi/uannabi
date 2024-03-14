@@ -106,7 +106,7 @@ if __name__ == "__main__":
 
 ```
 
-- 🔭 Currently working at LCH [LSEG](https://www.lch.com/)
+- 🔭 Currently working at Post Trade London Clearing House [LSEG](https://www.lch.com/)
 - 🌱 I’m currently gathering knowledge & experience on Data Engineering & Data Modeling.
 - 👯 No collaboration !=```01000101 01001111 01000100```
 - 🤔 I’m looking for ```01011111 01011111 01101001 01101110 01101001 01110100 01011111 01011111 ```
