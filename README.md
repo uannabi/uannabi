@@ -131,7 +131,7 @@ if __name__ == "__main__":
 
 #### The first one ABC about Big Data Analysis [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
 
-#### The Second article [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) 
+#### Build your own data lake [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) 
 
 #### The third article  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
 
