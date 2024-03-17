@@ -133,7 +133,7 @@ if __name__ == "__main__":
 
 #### Build your own data lake [Data Lake on AWS ](https://zahid-uan-nabi.medium.com/data-lakes-on-aws-b598cd9616b2) 
 
-#### ETL explained!  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
+#### ETL explained using aws!  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
 
 
 
