@@ -134,6 +134,10 @@ if __name__ == "__main__":
 
 #### ETL explained using aws!  [ETL Techniques ](https://zahid-uan-nabi.medium.com/etl-techniques-5d409597bfe5)
 
+#### First Missing Positive  [ETL Techniques ](https://uannabi.medium.com/first-missing-positive-bf233f6c180b)
+
+https://uannabi.medium.com/first-missing-positive-bf233f6c180b
+
 
 
 <hr>
