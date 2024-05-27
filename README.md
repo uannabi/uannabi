@@ -2,7 +2,7 @@
 <p>With vast experience in software engineering, I have developed a deep proficiency in Python, SQL, and advanced analytics tools like Tableau, DAQ, D3, Jupyter Notebook, EMR and Sagemaker. This extensive background has seamlessly transitioned into a pioneering Data Science role encompassing Data Engineering, Data Mining, Predictive Analytics, Data Visualization, and Machine Learning. More than just proficiency, my expertise represents a commanding ability to turn complex data sets into compelling narratives, actionable strategies and directions. My journey from software engineering to data science is not merely a shift in skillset but a testament to my capacity to lead and innovate in the ever-evolving digital narrative.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/animus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/uannabi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@uannabi/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/zahidunnabi" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://leetcode.com/uannabi/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
