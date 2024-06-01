@@ -20,7 +20,7 @@
 
 
 ## 📞 Let's Connect!
-Connect on [LinkedIn](https://www.linkedin.com/in/animus/).
+Connect on [LinkedIn](https://www.linkedin.com/in/uannabi/).
 
 
 
