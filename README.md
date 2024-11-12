@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/uannabi/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 </p>
 
-## 📌 About Myself
+## 📌 About Myself,
 
 | Who I Am | Education | Skills | Special Qualities |
 |----------|-----------|--------|------------------|
