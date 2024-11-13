@@ -113,9 +113,9 @@ if __name__ == "__main__":
 
 <hr>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"width="440px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="440px" height="10.0%"/> 
-<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=uannabi&theme=merko">
+<img width="330px" src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"/>
+<img width="330px" src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko"/> 
+<img width="330px" src="https://github-readme-activity-graph.vercel.app/graph?username=uannabi&theme=merko">
 </p>
 
 
