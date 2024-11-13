@@ -113,17 +113,13 @@ if __name__ == "__main__":
 
 <hr>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="50%" height="10.0%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=uannabi&show_icons=true&count_private=true&theme=merko"width="440px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=uannabi&theme=merko" width="440px" height="10.0%"/> 
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=uannabi&theme=merko">
 </p>
 
 
-
-
-<strong>🔭 Hightlighted repositories  ...</strong>
-
-<a href="https://github.com/uannabi/SparkDataFrame"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=SparkDataFrame" width=400> </a> 
-<a href="https://github.com/uannabi/DesignPatterns"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=uannabi&repo=DesignPatterns" width=400> </a> 
-<hr>
+![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
 
 ## Try these articles to enrich your knowledge on Medium
 
