@@ -8,6 +8,8 @@
   <a href="https://leetcode.com/uannabi/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
+
 ## 📌 About Myself,
 
 | Who I Am | Education | Skills | Special Qualities |
@@ -118,8 +120,6 @@ if __name__ == "__main__":
 <img width="330px" src="https://github-readme-activity-graph.vercel.app/graph?username=uannabi&theme=merko">
 </p>
 
-
-![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
 
 ## Try these articles to enrich your knowledge on Medium
 
