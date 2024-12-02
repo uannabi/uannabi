@@ -121,7 +121,7 @@ if __name__ == "__main__":
 </p>
 
 
-## Try these articles to enrich your knowledge on Medium
+## Articles on Medium
 
 
 #### The first one ABC about Big Data Analysis [5 V for Big Data Analysis ](https://zahid-uan-nabi.medium.com/five-v-of-data-analysis-47868610b6f6) 
