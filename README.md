@@ -30,6 +30,7 @@ Connect on [LinkedIn](https://www.linkedin.com/in/uannabi/).
 ## 🧰 Tools I've experienced with
 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]()
+[![R Badge](https://img.shields.io/badge/-R-black?style=flat&logo=Python&logoColor=white)]()
 [![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white)]()
 [![Scala Badge](https://img.shields.io/badge/-Scala-black?style=flat&logo=Scala&logoColor=white)]()
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white)]()
