@@ -1,5 +1,27 @@
-# 👋 Hey there,
-<p>With a strong foundation in Statistics and Computer Science and Engineering, I excel in applying advanced analytical techniques using SQL, Python, and R to enhance product strategies and user engagement. My diverse experience across digital applications and technology sectors underscores my ability to effectively collaborate with Product, Business, Engineering, and Design teams. I am skilled in developing comprehensive analytics frameworks and dynamic visual dashboards using tools like Tableau and Looker Studio. These capabilities allow me to derive actionable insights from complex datasets, influencing product development and optimizing user experiences. My adeptness at communicating intricate data insights ensures that strategic decisions are data-driven and aligned with organizational goals.</p>
+### 👋 Hi, I’m **Uannabi**
+
+#### I **architect large-scale financial data platforms** that power strategy, not just reports.
+
+---
+
+### 🏆 Core Specialities
+| | |
+|---|---|
+| **Data-as-a-Product Vision** | Turn raw, disparate events into governed, self-service datasets with clear lineage, SLAs, and docs. |
+| **Financial Domain Mastery** | Premium, Ads & Royalties pipelines that enable revenue analytics, compliance, and real-time insights. |
+| **Cloud-Scale Engineering** | Spark · Beam · Dataflow on **GCP**, orchestrated with Airflow and delivered through BigQuery. |
+| **Model-Driven Impact** | Causal inference & predictive models that have lifted engagement **+25 %** and cut launch cycles **–30 %**. |
+| **Cross-Functional Leadership** | Bridge Finance ↔ Product ↔ Engineering, mentoring teams in clean code, standards, and data quality. |
+
+---
+
+### 🔧 Tech Stack Snapshot
+`Python` | `Scala/Java` | `SQL` | `Spark` | `Beam` | `Dataflow` | `BigQuery` | `Airflow` | `Looker/Tableau`
+
+---
+
+### 🚀 Mission
+To craft **foundational, reusable data abstractions** that let every squad explore and act with confidence—transforming messy realities into strategic clarity at global scale.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uannabi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
