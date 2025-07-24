@@ -15,11 +15,6 @@
 
 ---
 
-### 🔧 Tech Stack Snapshot
-`Python` | `Scala/Java` | `SQL` | `Spark` | `Beam` | `Dataflow` | `BigQuery` | `Airflow` | `Looker/Tableau`
-
----
-
 ### 🚀 Mission
 To craft **foundational, reusable data abstractions** that let every squad explore and act with confidence—transforming messy realities into strategic clarity at global scale.
 
