@@ -1,4 +1,4 @@
-### 👋 Hi, I’m **Uannabi**
+### 👋 Hi, I’m **Zahid**
 
 #### I **architect large-scale financial data platforms** that power strategy, not just reports.
 
