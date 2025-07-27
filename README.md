@@ -4,7 +4,7 @@
 
 ---
 
-### 🏆 Core Specialities
+### 🏆 Core Specialities;
 | | |
 |---|---|
 | **Data-as-a-Product Vision** | Turn raw, disparate events into governed, self-service datasets with clear lineage, SLAs, and docs. |
